@@ -1,0 +1,16 @@
+chain_name,input,output
+Summarization,"
+    The college provides undergraduate courses
+    in Computer Science, Commerce and Mathematics.
+
+    Students attend lectures and practical sessions.
+    The library provides books and study materials.
+
+    Internal assessments and semester examinations
+    are conducted for students.
+    ","1. The college offers undergraduate courses in Computer Science, Commerce, and Mathematics.
+2. Students participate in lectures and practical sessions.
+3. The library provides books and study materials.
+4. Internal assessments and semester examinations are conducted for students.
+5. The college offers a comprehensive educational experience."
+Question Answering,What courses are offered?,"The college offers undergraduate courses in Computer Science, Commerce, and Mathematics."
